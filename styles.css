@@ -1,0 +1,19 @@
+
+
+body{
+    font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    margin:0;
+    height: 100vh;
+    background-color: rgb(128, 128, 191);
+}
+h1{
+    font-size: 40px;
+    color: rgb(117, 117, 172);
+}
+@media (min-width:800px){
+}
